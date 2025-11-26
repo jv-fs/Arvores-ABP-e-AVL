@@ -15,5 +15,7 @@ Para praticidade, o corpo do repositório possui um arquivo chamado `exec.bat`. 
 ### Opção 2: linha de comando
 Abrindo um terminal em `\bin\Debug` execute ```.\consulta_jogos.exe .\<DataBase> .\<lista> .\<resultado>``` substituindo as variáveis separadas por <> pelos paths dos arquivos que serão utilizados. Por praticidade, é recomendado colocar os arquivos dentro do diretório `\bin\Debug` e simplesmente inserir os nomes dos arquivos nos campos juntamente de sua extensão.
 
-##Observação
+## Observação
 Os dados do DataSet são esperados com a seguinte formatação: `Título,Horas`, linha por linha.
+
+>Grande parte do código não é de autoria própria e os créditos estão referenciados nos `.c`. A fonte única são os PDFs disponibilizados pelos professores na plataforma da disciplina no Moodle, então os créditos estão descritos pelo número da aula ou título da atividade e página, caso necessário.
