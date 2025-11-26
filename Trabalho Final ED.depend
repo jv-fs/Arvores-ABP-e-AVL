@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1764118944 source:d:\arquivos em c\trabalho final ed\abp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tad_ABP.h"
+
+1764116208 d:\arquivos em c\trabalho final ed\tad_abp.h
+	<stdio.h>
+	<stdlib.h>
+
+1764115745 source:d:\arquivos em c\trabalho final ed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"tad_ABP.h"
+	"tad_AVL.h"
+
+1763517132 source:d:\arquivos em c\trabalho final ed\arvores-binarias.c
+
+1763517184 d:\arquivos em c\trabalho final ed\arvores-binarias.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1763943409 source:d:\arquivos em c\trabalho final ed\avl.c
+	"tad_AVL.h"
+
+1764117453 d:\arquivos em c\trabalho final ed\tad_avl.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
